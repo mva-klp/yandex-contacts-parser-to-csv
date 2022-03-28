@@ -9,6 +9,6 @@
 # yandex-contacts-parser-to-csv-autologin
 
 <p>You can use this script for export contacts from Yandex.mail address book to .CSV file with autologin.</p>
-<p>>Before use you need to write in the code your mail.yandex login and password in main method</p>
+<p>Before use you need to write in the code your mail.yandex login and password in main method</p>
 <p>In result you will see file contacts.csv in the same catalog.</p>
 <p>If you will change separator ';' to ',' and then delete other emails from cells of contact's strings in contacts.csv file, you will can import its in MS Outlook.</p>
